@@ -1,0 +1,9 @@
+This script removes D2L's prefix for student submissions so they can be properly compiled).
+USAGE:
+-----
+
+python d2l_rename.py EXT
+
+where EXT is the type of file to rename (java/h/cpp/etc). 
+
+Renames all files in the current directory.
